@@ -19,7 +19,7 @@
 
 declare(strict_types=1);
 
-namespace boymelancholy\kitchen;
+namespace Kitchen\boymelancholy\kitchen;
 
 use pocketmine\inventory\ShapedRecipe;
 use pocketmine\item\Item;
@@ -30,7 +30,7 @@ use pocketmine\Server;
  * Convert to easily-using recipes without including these items: (id < 0)
  *
  * Class Kitchen
- * @package boymelancholy\kitchen
+ * @package Kitchen\boymelancholy\kitchen
  * @author boymelancholy
  */
 class Kitchen {

@@ -19,14 +19,14 @@
 
 declare(strict_types=1);
 
-namespace boymelancholy\kitchen;
+namespace Kitchen\boymelancholy\kitchen;
 
 use pocketmine\item\Item;
 use pocketmine\Player;
 
 /**
  * Class Tray
- * @package boymelancholy\kitchen
+ * @package Kitchen\boymelancholy\kitchen
  * @author boymelancholy
  */
 class Tray {
